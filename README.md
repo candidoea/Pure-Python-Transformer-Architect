@@ -50,19 +50,6 @@ O projeto inclui ferramentas de visualização para validar o comportamento do m
 
 ---
 
-## 🚀 Como Executar
-
-O projeto está contido em um Jupyter Notebook (`.ipynb`). Basta abrir o arquivo e executar as células sequencialmente. Não existem dependências externas além de bibliotecas padrão do Python (como `math` e `random`) e `matplotlib/plotly` para as visualizações.
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/Pure-Python-Transformer-Architect.git
-
-# Abra o notebook
-jupyter notebook TRANSFORMER(PYTHON_PURO).ipynb
-
-```
-
 ## 🧠 Conclusão Acadêmica
 
 Este projeto prova que, por trás da complexidade de modelos como o GPT-4, existe uma estrutura elegante de matrizes operando em harmonia. A estabilidade numérica alcançada (média de ativação $0.0000$ após LayerNorm) confirma que a implementação está pronta para receber o algoritmo de *Backpropagation* e evoluir para um treinamento real.
